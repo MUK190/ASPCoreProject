@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.vsidx
+/PclinicMasterBranch/PclinicMasterBranch/obj/Debug/net8.0/PclinicMasterBranch.AssemblyInfoInputs.cache
+*.bin
+*.v2
+/PclinicMasterBranch/.vs/PclinicMasterBranch/v17/.suo
+*.dll
+*.json
+*.exe
+*.pdb
+/PclinicMasterBranch/.vs/PclinicMasterBranch/v17/DocumentLayout.json
+/PclinicMasterBranch/PclinicMasterBranch/PclinicMasterBranch.csproj.user
+/PclinicMasterBranch/PclinicMasterBranch/obj/Debug/net8.0/staticwebassets/msbuild.PclinicMasterBranch.Microsoft.AspNetCore.StaticWebAssets.props
